@@ -17,19 +17,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61562362827346",
-    "100075058221244"
+    "100041394069745",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Gab Yu",
-  "AGE": "14",
+  "OWNER": "RAM",
+  "AGE": "NO",
   "GENDER": "MALE",
-  "nickNameBot": "義 𝗚𝗶𝘆𝘂 | 🌊 勇",
-  "FACEBOOK": "https://www.facebook.com/ 61562362827346",
+  "nickNameBot": "義 ramen | 🌊 勇",
+  "FACEBOOK": "https://www.facebook.com/100041394069745",
   "prefix": "/",
   "database": {
     "type": "sqlite",
@@ -41,15 +41,15 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "cliffbotbeluga@gmail.com",
-      "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
+      "email": "octobotai@gmail.com",
+      "clientId": "87915556468-0ecr9qhmj74o44hs4m8o6ddaivp60gr0.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04etAI2Nwm1EMCgYIARAAGAQSNwF-L9IrarYrnASTHnYUH4N9cmbApHTvy1drS7sbrm332lgAJ4PFlDv-GNfje3yTlzLpKitbc3E",
       "apiKey": ""
     },
     "gRecaptcha": {
-      "siteKey": "6LcEPTMpAAAAAKRhQmTp03g4rkq-U6jXs8E8rDf5",
-      "secretKey": "6LcEPTMpAAAAAKRhQmTp03g4rkq-U6jXs8E8rDf5"
+      "siteKey": "6LetGeIqAAAAAKhsJAw2qGO81dD-Sg-ql3wTbICr",
+      "secretKey": "6LetGeIqAAAAALJgqn_m1rKFXRH--jhEa-6PajBM"
     }
   },
   "dashBoard": {
