@@ -42,7 +42,7 @@
   "credentials": {
     "gmailAccount": {
       "email": "",
-      "clientId": "",
+      "clientId": "695328982889-v1t85ej9aq1fvv0n4alp7rcbea9gkgvf.apps.googleusercontent.com",
       "clientSecret": "",
       "refreshToken": "",
       "apiKey": ""
