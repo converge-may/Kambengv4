@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "gojosatoru032313",
-    "password": "032313ram",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": 1440,
@@ -28,9 +28,9 @@
   "OWNER": "RAM",
   "AGE": "NO",
   "GENDER": "MALE",
-  "nickNameBot": "義 ramen | 🌊 勇",
+  "nickNameBot": "義 ramen | 🌊 勇 (+)",
   "FACEBOOK": "https://www.facebook.com/100041394069745",
-  "prefix": "/",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -41,15 +41,15 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "octobotai@gmail.com",
-      "clientId": "87915556468-0ecr9qhmj74o44hs4m8o6ddaivp60gr0.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04etAI2Nwm1EMCgYIARAAGAQSNwF-L9IrarYrnASTHnYUH4N9cmbApHTvy1drS7sbrm332lgAJ4PFlDv-GNfje3yTlzLpKitbc3E",
+      "email": "",
+      "clientId": "",
+      "clientSecret": "",
+      "refreshToken": "",
       "apiKey": ""
     },
     "gRecaptcha": {
-      "siteKey": "6LetGeIqAAAAAKhsJAw2qGO81dD-Sg-ql3wTbICr",
-      "secretKey": "6LetGeIqAAAAALJgqn_m1rKFXRH--jhEa-6PajBM"
+      "siteKey": "",
+      "secretKey": ""
     }
   },
   "dashBoard": {
